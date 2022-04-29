@@ -9,6 +9,7 @@ Dementia-related Cognitive Impairment (CI) is a neurodegenerative disorder, affe
 ## Navigating the Codebase
 1. ```Models/``` - Houses all the code for the Machine Learning TFIDF, Deep Learning BERT models, and Patient Level Aggregration Model
 2. ```Preprocessing/``` - Houses the code for the EHR Preprocessing Pipeline 
+3. ```NeuraHealth-WebApp/``` - Houses all the code for the NeuraHealth web app
 
 Each folder will also contain a ```README.md``` file that goes into further detail regarding its contents. 
 
